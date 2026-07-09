@@ -1,2 +1,4 @@
 # Cloud-Data-Center-Architecture-Cost-Optimization-using-AWS
 Designed a cloud-native enterprise data center architecture by comparing AWS and Microsoft Azure, performing infrastructure cost analysis, SLA evaluation, scalability assessment, and Total Cost of Ownership (TCO) optimization for enterprise workloads
+This project focuses on designing and evaluating a cloud-native enterprise infrastructure to replace a traditional on-premise data center. The solution compares Amazon Web Services (AWS) and Microsoft Azure across infrastructure services, pricing models, reliability, scalability, and operational efficiency.
+The project includes cloud architecture design, infrastructure migration planning, cost estimation, Service Level Agreement (SLA) comparison, Total Cost of Ownership (TCO) analysis, and sensitivity analysis to determine the most cost-effective deployment strategy.
